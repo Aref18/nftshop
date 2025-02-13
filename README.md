@@ -1,4 +1,4 @@
-# ep3
+# NftShop
 
 A new Flutter project.
 
